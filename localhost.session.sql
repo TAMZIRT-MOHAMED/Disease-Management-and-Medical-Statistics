@@ -1,1 +1,0 @@
-SELECT * FROM doctors WHERE cin_doctor = 'S1234';
