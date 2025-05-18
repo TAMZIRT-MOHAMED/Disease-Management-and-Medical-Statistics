@@ -44,5 +44,5 @@ The application uses local file paths for assets and data storage. You may need 
 
 ## Contributors
 - TAMZIRT MOHAMED
-- SAID SAID
+- SAID SALMA
 
