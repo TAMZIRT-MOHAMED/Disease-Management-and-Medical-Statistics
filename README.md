@@ -43,8 +43,6 @@ python main.py
 The application uses local file paths for assets and data storage. You may need to adjust these paths based on your system configuration in the settings file.
 
 ## Contributors
-- TAMZIRT Mohamed
-- SAID Salma
+- TAMZIRT MOHAMED
+- SAID SAID
 
-## License
-[Specify your license here]
