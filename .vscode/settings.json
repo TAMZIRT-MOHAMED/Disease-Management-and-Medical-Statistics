@@ -1,0 +1,19 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "xprotocol",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 33060,
+            "name": "localhost",
+            "driver": "MySQL",
+            "database": "medicaldata",
+            "username": "root",
+            "password": "Chicken@id1@@",
+            "connectionTimeout": 30
+        }
+    ]
+}
